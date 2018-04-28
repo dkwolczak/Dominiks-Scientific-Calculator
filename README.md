@@ -11,7 +11,7 @@ Version 0.4 - Beta (This project is in a working Beta stage feel free to give me
   - User History
   
 ## Download Instructions
-To download select runable version download: dominiks_calculator.exe
+To download select runnable version download: dominiks_calculator.exe
 
 ## Licence
 Copyright <2018> <Dominik Kwolczak>
